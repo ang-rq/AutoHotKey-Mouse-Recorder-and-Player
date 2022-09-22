@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Untitled Document.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="AutoHotKey_Mouse_Recorder_and_Player_0"></a>AutoHotKey Mouse Recorder and Player</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">Simple AutoHotKey script for recording and playing mouse movement</p>
 <h2 class="code-line" data-line-start=3 data-line-end=4><a id="Usage_3"></a>Usage</h2>
