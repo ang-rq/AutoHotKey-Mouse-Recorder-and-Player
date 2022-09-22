@@ -8,7 +8,8 @@ index := 0
 MouseX :=
 MouseY :=
 CoordMode, Mouse, Screen
-fille = C:\Users\Angeluta\Desktop\Projects\AutoHotKey\DragonCity\a.txt
+fille = %A_ScriptDir%\vinyl.txt
+;MsgBox, %fille%
 ;FileDelete %fille%
 
 ^!q::

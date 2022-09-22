@@ -4,7 +4,7 @@
 ; + Shift 
 ; &  An ampersand may be used between any two keys or mouse buttons to combine them into a custom hotkey.  
 
-fille = C:\Users\Angeluta\Desktop\Projects\AutoHotKey\DragonCity\a.txt
+fille = %A_ScriptDir%\vinyl.txt
 index := 
 m :=
 MouseX :=
